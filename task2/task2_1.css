@@ -1,0 +1,40 @@
+.outer{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color:white(177, 240, 240);
+}
+
+.Upper{
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+
+.image img{
+    
+      justify-items: right;
+      width: 40%;
+      box-shadow: 10px 8px;
+}
+.section{
+    align-items: stretch;
+}
+.section{
+
+    background-color: yellow(235, 244, 204);
+    margin: 4px 360px 4px 360px;
+    box-shadow: 8px 8px;
+}
+
+.Bio{
+    margin-right: 13px;
+}
+
+.Inner{
+    margin-right: 13px;
+}
+
+.text{
+    text-align: right;
+}
